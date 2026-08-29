@@ -19,7 +19,8 @@ The notebook guides students through:
 1. Open the notebook in Google Colab.
 2. Select a GPU and the **2026.07** runtime.
 3. Run the cells in order.
-4. Keep `num_designs = 1` and `num_seqs = 1` for the classroom exercise.
+4. Keep `num_designs = 2` and `num_seqs = 2` for the classroom exercise.
+5. Re-run ProteinMPNN-AF2 block if the scores are not good enough. 
 
 The notebook is distributed without saved results, while retaining the predefined Rab11 structure, contigs, and hotspots.
 
